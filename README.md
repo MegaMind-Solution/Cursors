@@ -35,4 +35,4 @@ MicroResearch Corpration®
 * In popup window you select the cursor pack
 * Click on Apply button to apply cursors on **Pc** 
 
-if you have any idea or design for cursors designing and shape post comment or text me that on [E-Mail](rm4814691@gmail.com)
+if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](rm4814691@gmail.com)

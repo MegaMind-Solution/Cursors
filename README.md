@@ -1,5 +1,5 @@
 # Cursors
-**Hi! Hello Aslam-ua-Alikum!(السلام عليكم)!**
+**Hi
 
 I'm __M.Ramzan Ch__  a Beginner Grphice Designer, Web Developer and Software Modifier.
 
@@ -8,7 +8,7 @@ I create some cursor packs with my Workgroup for windows **PCs**.
 **Credit goes to**
 
 1. **MindRise Designs**
-2. **MicroResearch Corpration®**
+2. **MicroResearch Corporation®**
 
 > **Ideas & Management**
 
@@ -20,7 +20,7 @@ MindRise Deigns create amazing Designs.
 
 > **Financial partner and Owner**
 
-MicroResearch Corpration®
+MicroResearch Corporation®
 
 **Instalation Guide**
 
@@ -35,4 +35,4 @@ MicroResearch Corpration®
 * In popup window you select the cursor pack
 * Click on Apply button to apply cursors on **Pc** 
 
-if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](rm4814691@gmail.com)
+if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](Ramzan@mrc@gmail.com)

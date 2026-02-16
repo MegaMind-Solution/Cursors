@@ -1,28 +1,11 @@
 # Cursors
 **Hi
+some cursor packs with my Workgroup for windows **PCs**.
 
-I'm __M.Ramzan Ch__  a Beginner Grphice Designer, Web Developer and Software Modifier.
-
-I create some cursor packs with my Workgroup for windows **PCs**.
-
-**Credit goes to**
-
-1. **MindRise Designs**
-2. **MicroResearch Corporation®**
-
-> **Ideas & Management**
-
-MegaMind-Solution find idea to create **Cursors**
-
-> **Designing partner**
-
-MindRise Deigns create amazing Designs.
-
-> **Financial partner and Owner**
-
-MicroResearch Corporation®
-
-**Instalation Guide**
+## Credit goes to
+ **MindRise Designs**
+ 
+## Instalation Guide
 
 * Download your choosed cursor pack zip file in your Pc
 * Unzip the cursor pack folder in your **Pc** drictory
@@ -35,4 +18,4 @@ MicroResearch Corporation®
 * In popup window you select the cursor pack
 * Click on Apply button to apply cursors on **Pc** 
 
-if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](Ramzan@mrc@gmail.com)
+if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](memrc@mrd.com)

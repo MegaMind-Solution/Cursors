@@ -1,6 +1,6 @@
 # Cursors
-**Hi
-some cursor packs with my Workgroup for windows **PCs**.
+**
+Some cursor packs by my Workgroup for windows **PCs**.
 
 ## Credit goes to
  **MindRise Designs**
@@ -18,4 +18,4 @@ some cursor packs with my Workgroup for windows **PCs**.
 * In popup window you select the cursor pack
 * Click on Apply button to apply cursors on **Pc** 
 
-if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](memrc@mrd.com)
+if you have any idea or design for cursors designing and shape post comment or text me that idea design on [E-Mail](info@mrd.com)
